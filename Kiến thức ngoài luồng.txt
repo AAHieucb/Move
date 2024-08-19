@@ -1,0 +1,8 @@
+-> Libra là blockchain gốc dùng move, sau đó nó đổi tên thành Diem. Aptos và Sui ra sau
+Move (Rust-based lang) ở mỗi blockchain có nhiều điểm khác nhau. VD bản Move của Sui xác định rõ object thuộc về ai, immutable or not, còn Aptos thì không.
+Move hoàn chỉnh hơn solidity. Static typing giúp phát hiện các lỗi ẩn. Các công đoạn tương tác SM và connect ví đều được tối ưu.
+
+Move gốc được tạo bởi Diem. Aptos cũng dùng Move để viết SM nhưng aptos chỉ là framework thôi. Cũng như nodejs là framework của JS v
+
+-> Aptos là 1 blockchain layer1. Token APT. Ví aptos riêng. Aptos có khả năng mở rộng tới 160000 TPS, phí gas rẻ, tiện với NFTs.
+
